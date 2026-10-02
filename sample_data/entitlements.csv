@@ -1,0 +1,15 @@
+entitlement_id,product,rights,metric,unit_cost,start_date,end_date,po_number
+ENT0001,Microsoft Visio Professional 2021,60,per_device,560,2022-03-01,,PO-22-0148
+ENT0002,Microsoft Visio Professional 2021,40,per_device,600,2023-09-15,,PO-23-0911
+ENT0003,Microsoft Project Professional 2021,30,per_device,1130,2022-03-01,,PO-22-0148
+ENT0004,TechSmith Snagit,50,per_device,63,2024-01-10,,PO-24-0033
+ENT0005,Adobe Acrobat Pro,250,per_user,240,2026-02-01,2027-01-31,PO-26-0102
+ENT0006,Adobe Creative Cloud All Apps,35,per_user,1000,2025-11-15,2026-11-14,PO-25-1140
+ENT0007,Autodesk AutoCAD LT,25,per_user,560,2026-04-01,2027-03-31,PO-26-0390
+ENT0008,Tableau Desktop,10,per_user,900,2026-01-01,2026-12-31,PO-26-0007
+ENT0009,Tableau Desktop,5,per_user,900,2025-09-01,2026-08-31,PO-25-0870
+ENT0010,Microsoft SQL Server Enterprise 2022,40,per_core,3600,2023-06-30,,PO-23-0640
+ENT0011,Microsoft SQL Server Standard 2022,60,per_core,950,2023-06-30,,PO-23-0640
+ENT0012,Windows Server 2022 Datacenter,352,per_core,385,2023-06-30,,PO-23-0640
+ENT0013,Oracle Database Enterprise Edition,16,per_core,47500,2021-05-20,,PO-21-0412
+ENT0014,Zoom Workplace,1,site,0,2026-01-01,2026-12-31,PO-26-0015

@@ -1,0 +1,19 @@
+name,publisher,metric,unit_price,free,core_factor,min_cores
+Microsoft Visio Professional 2021,Microsoft,per_device,580,no,1.0,0
+Microsoft Project Professional 2021,Microsoft,per_device,1130,no,1.0,0
+Adobe Acrobat Pro,Adobe,per_user,240,no,1.0,0
+Adobe Creative Cloud All Apps,Adobe,per_user,1000,no,1.0,0
+Autodesk AutoCAD LT,Autodesk,per_user,560,no,1.0,0
+Microsoft SQL Server Enterprise 2022,Microsoft,per_core,3600,no,1.0,4
+Microsoft SQL Server Standard 2022,Microsoft,per_core,950,no,1.0,4
+Windows Server 2022 Datacenter,Microsoft,per_core,385,no,1.0,16
+Oracle Database Enterprise Edition,Oracle,per_core,47500,no,0.5,0
+Tableau Desktop,Salesforce,per_user,900,no,1.0,0
+TechSmith Snagit,TechSmith,per_device,63,no,1.0,0
+WinZip,Corel,per_device,35,no,1.0,0
+Zoom Workplace,Zoom,site,0,no,1.0,0
+7-Zip,Igor Pavlov,per_device,0,yes,1.0,0
+Notepad++,Notepad++ Team,per_device,0,yes,1.0,0
+Google Chrome,Google,per_device,0,yes,1.0,0
+Adobe Acrobat Reader,Adobe,per_device,0,yes,1.0,0
+Microsoft SQL Server Express,Microsoft,per_device,0,yes,1.0,0

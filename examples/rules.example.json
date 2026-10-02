@@ -1,0 +1,4 @@
+[
+  { "product": "Dispatch Console Client", "pattern": "\\bdispatch console client\\b" },
+  { "product": "Bloomberg Terminal", "pattern": "\\bbloomberg terminal\\b" }
+]

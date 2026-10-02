@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sam-license-reconciler"
+version = "1.0.0"
+description = "Software license position, true-up exposure and reclaim savings from SAM Pro or CSV exports."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Kester Atuanya" }]
+dependencies = ["requests>=2.31"]
+keywords = ["servicenow", "sam", "software-asset-management", "licensing", "itam"]
+
+[project.scripts]
+sam-reconcile = "sam_reconciler.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sam_reconciler*"]

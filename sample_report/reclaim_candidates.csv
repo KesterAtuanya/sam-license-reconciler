@@ -1,0 +1,135 @@
+product,device_name,device_id,user,last_used,days_unused,license_value
+Adobe Acrobat Pro,lt-11077,wk0359,elena.garcia,2025-08-07,420,240.0
+Adobe Acrobat Pro,lt-10489,wk0163,sam.reyes,2025-08-21,406,240.0
+Adobe Acrobat Pro,lt-10282,wk0094,ana.ito,2025-10-03,363,240.0
+Adobe Acrobat Pro,lt-10585,wk0195,grace.chen,2025-10-04,362,240.0
+Adobe Acrobat Pro,lt-10750,wk0250,elena.lopez,2025-10-06,360,240.0
+Adobe Acrobat Pro,lt-11434,wk0478,grace.diaz,2025-10-16,350,240.0
+Adobe Acrobat Pro,lt-10741,wk0247,grace.reyes,2025-10-19,347,240.0
+Adobe Acrobat Pro,dt-10855,wk0285,ana.nguyen,2025-12-28,277,240.0
+Adobe Acrobat Pro,lt-11047,wk0349,kofi.adams,2026-01-15,259,240.0
+Adobe Acrobat Pro,lt-10828,wk0276,dev.chen,2026-01-21,253,240.0
+Adobe Acrobat Pro,lt-11338,wk0446,elena.mensah,2026-02-16,227,240.0
+Adobe Acrobat Pro,lt-10726,wk0242,ivan.chen,2026-02-23,220,240.0
+Adobe Acrobat Pro,dt-11188,wk0396,marco.khan,2026-03-10,205,240.0
+Adobe Acrobat Pro,lt-11056,wk0352,dev.garcia,2026-03-26,189,240.0
+Adobe Acrobat Pro,lt-10105,wk0035,femi.ito,2026-03-29,186,240.0
+Adobe Acrobat Pro,dt-10735,wk0245,jade.walker,2026-03-29,186,240.0
+Adobe Acrobat Pro,lt-10390,wk0130,ana.eze,2026-04-12,172,240.0
+Adobe Acrobat Pro,lt-10477,wk0159,sam.obi,2026-04-15,169,240.0
+Adobe Acrobat Pro,lt-10603,wk0201,sam.mensah,2026-04-16,168,240.0
+Adobe Acrobat Pro,dt-10075,wk0025,vera.eze,2026-05-07,147,240.0
+Adobe Acrobat Pro,lt-10870,wk0290,omar.khan,2026-06-01,122,240.0
+Adobe Creative Cloud All Apps,lt-10636,wk0212,yara.khan,2025-08-28,399,1000.0
+Adobe Creative Cloud All Apps,dt-10447,wk0149,priya.nguyen,2025-08-29,398,1000.0
+Adobe Creative Cloud All Apps,lt-10903,wk0301,uche.ito,2025-09-04,392,1000.0
+Adobe Creative Cloud All Apps,lt-10975,wk0325,priya.baker,2026-01-19,255,1000.0
+Adobe Creative Cloud All Apps,lt-11128,wk0376,rosa.reyes,2026-05-17,137,1000.0
+Autodesk AutoCAD LT,lt-11422,wk0474,ben.khan,2025-09-25,371,560.0
+Autodesk AutoCAD LT,lt-10789,wk0263,elena.chen,2026-03-08,207,560.0
+Autodesk AutoCAD LT,lt-11227,wk0409,ivan.patel,2026-06-14,109,560.0
+Microsoft Project Professional 2021,lt-10096,wk0032,tara.fox,2025-09-04,392,1130.0
+Microsoft Project Professional 2021,lt-10186,wk0062,priya.obi,2025-12-28,277,1130.0
+Microsoft Project Professional 2021,lt-10159,wk0053,priya.garcia,2026-01-27,247,1130.0
+Microsoft Project Professional 2021,lt-10033,wk0011,grace.lopez,2026-02-03,240,1130.0
+Microsoft Project Professional 2021,lt-11413,wk0471,dev.diaz,2026-02-06,237,1130.0
+Microsoft Project Professional 2021,lt-10780,wk0260,vera.chen,2026-04-04,180,1130.0
+Microsoft Visio Professional 2021,lt-11299,wk0433,priya.reyes,2025-08-08,419,576.0
+Microsoft Visio Professional 2021,lt-10492,wk0164,grace.baker,2025-08-15,412,576.0
+Microsoft Visio Professional 2021,lt-10561,wk0187,jade.chen,2025-08-29,398,576.0
+Microsoft Visio Professional 2021,dt-30021,wk2021,rosa.adams,2025-08-31,396,576.0
+Microsoft Visio Professional 2021,dt-11257,wk0419,uche.garcia,2025-09-07,389,576.0
+Microsoft Visio Professional 2021,lt-10048,wk0016,elena.patel,2025-09-11,385,576.0
+Microsoft Visio Professional 2021,lt-11401,wk0467,zane.ito,2025-09-12,384,576.0
+Microsoft Visio Professional 2021,lt-10612,wk0204,sam.hughes,2025-09-16,380,576.0
+Microsoft Visio Professional 2021,lt-10768,wk0256,yara.smith,2025-10-18,348,576.0
+Microsoft Visio Professional 2021,lt-11134,wk0378,grace.tran,2025-10-19,347,576.0
+Microsoft Visio Professional 2021,dt-30044,wk2044,carla.obi,2025-10-24,342,576.0
+Microsoft Visio Professional 2021,lt-10117,wk0039,ivan.nguyen,2025-11-04,331,576.0
+Microsoft Visio Professional 2021,dt-10309,wk0103,zane.obi,2025-11-11,324,576.0
+Microsoft Visio Professional 2021,lt-10669,wk0223,zane.james,2025-11-29,306,576.0
+Microsoft Visio Professional 2021,dt-30014,wk2014,jade.diaz,2025-12-20,285,576.0
+Microsoft Visio Professional 2021,dt-10480,wk0160,ivan.baker,2026-01-10,264,576.0
+Microsoft Visio Professional 2021,lt-11398,wk0466,ben.lopez,2026-01-19,255,576.0
+Microsoft Visio Professional 2021,lt-10627,wk0209,elena.james,2026-02-08,235,576.0
+Microsoft Visio Professional 2021,lt-11194,wk0398,uche.james,2026-02-15,228,576.0
+Microsoft Visio Professional 2021,lt-11053,wk0351,grace.garcia,2026-02-17,226,576.0
+Microsoft Visio Professional 2021,lt-11227,wk0409,ivan.patel,2026-02-18,225,576.0
+Microsoft Visio Professional 2021,dt-10324,wk0108,wes.eze,2026-02-24,219,576.0
+Microsoft Visio Professional 2021,dt-30007,wk2007,femi.khan,2026-02-24,219,576.0
+Microsoft Visio Professional 2021,lt-11068,wk0356,marco.mensah,2026-03-06,209,576.0
+Microsoft Visio Professional 2021,dt-30051,wk2051,lena.diaz,2026-03-14,201,576.0
+Microsoft Visio Professional 2021,dt-10771,wk0257,hiro.mensah,2026-04-06,178,576.0
+Microsoft Visio Professional 2021,dt-30054,wk2054,omar.walker,2026-04-11,173,576.0
+Microsoft Visio Professional 2021,dt-30050,wk2050,tara.obi,2026-04-13,171,576.0
+Microsoft Visio Professional 2021,dt-10030,wk0010,uche.chen,2026-05-18,136,576.0
+Microsoft Visio Professional 2021,lt-10060,wk0020,uche.patel,2026-05-25,129,576.0
+Microsoft Visio Professional 2021,dt-11005,wk0335,jade.obi,2026-06-18,105,576.0
+Tableau Desktop,lt-10852,wk0284,ben.reyes,2025-08-08,419,900.0
+Tableau Desktop,lt-11110,wk0370,quinn.lopez,2026-04-22,162,900.0
+TechSmith Snagit,lt-10555,wk0185,jade.patel,2025-09-13,383,63.0
+TechSmith Snagit,lt-10366,wk0122,ana.tran,2025-10-04,362,63.0
+TechSmith Snagit,lt-10720,wk0240,hiro.reyes,2025-10-05,361,63.0
+TechSmith Snagit,lt-10195,wk0065,yara.james,2025-11-02,333,63.0
+TechSmith Snagit,lt-11137,wk0379,carla.hughes,2025-11-09,326,63.0
+TechSmith Snagit,lt-11161,wk0387,ivan.obi,2025-11-11,324,63.0
+TechSmith Snagit,lt-10561,wk0187,jade.chen,2025-11-23,312,63.0
+TechSmith Snagit,lt-10084,wk0028,rosa.nguyen,2025-11-25,310,63.0
+TechSmith Snagit,lt-11206,wk0402,nina.chen,2025-12-06,299,63.0
+TechSmith Snagit,dt-10714,wk0238,priya.fox,2025-12-19,286,63.0
+TechSmith Snagit,lt-11134,wk0378,grace.tran,2026-01-03,271,63.0
+TechSmith Snagit,lt-10789,wk0263,elena.chen,2026-01-28,246,63.0
+TechSmith Snagit,lt-10105,wk0035,femi.ito,2026-02-05,238,63.0
+TechSmith Snagit,lt-10255,wk0085,priya.adams,2026-02-07,236,63.0
+TechSmith Snagit,dt-11407,wk0469,quinn.chen,2026-02-10,233,63.0
+TechSmith Snagit,dt-10273,wk0091,dev.tran,2026-02-10,233,63.0
+TechSmith Snagit,lt-10978,wk0326,marco.ito,2026-02-12,231,63.0
+TechSmith Snagit,dt-30038,wk2038,zane.nguyen,2026-02-22,221,63.0
+TechSmith Snagit,lt-11038,wk0346,elena.fox,2026-03-02,213,63.0
+TechSmith Snagit,lt-10276,wk0092,femi.patel,2026-03-07,208,63.0
+TechSmith Snagit,lt-10615,wk0205,tara.james,2026-03-23,192,63.0
+TechSmith Snagit,lt-10156,wk0052,ana.reyes,2026-04-05,179,63.0
+TechSmith Snagit,lt-10489,wk0163,sam.reyes,2026-04-11,173,63.0
+TechSmith Snagit,lt-11218,wk0406,hiro.hughes,2026-04-26,158,63.0
+TechSmith Snagit,dt-30018,wk2018,sam.adams,2026-04-29,155,63.0
+TechSmith Snagit,lt-11377,wk0459,omar.fox,2026-05-25,129,63.0
+WinZip,lt-11215,wk0405,priya.lopez,2025-08-09,418,35
+WinZip,ks-dispatch-05,ks004,(unassigned device ks004),2025-08-12,415,35
+WinZip,dt-30032,wk2032,nina.khan,2025-08-17,410,35
+WinZip,lt-10315,wk0105,femi.reyes,2025-08-28,399,35
+WinZip,dt-11290,wk0430,rosa.ito,2025-09-04,392,35
+WinZip,dt-30025,wk2025,marco.lopez,2025-09-14,382,35
+WinZip,lt-10738,wk0246,sam.tran,2025-09-27,369,35
+WinZip,lt-10450,wk0150,ivan.mensah,2025-10-01,365,35
+WinZip,lt-10336,wk0112,dev.hughes,2025-10-02,364,35
+WinZip,lt-11338,wk0446,elena.mensah,2025-10-11,355,35
+WinZip,lt-11194,wk0398,uche.james,2025-10-12,354,35
+WinZip,lt-10138,wk0046,quinn.walker,2025-10-15,351,35
+WinZip,lt-11419,wk0473,vera.diaz,2025-10-23,343,35
+WinZip,lt-11425,wk0475,kofi.smith,2025-10-26,340,35
+WinZip,lt-11113,wk0371,hiro.tran,2025-11-01,334,35
+WinZip,lt-10984,wk0328,femi.walker,2025-11-08,327,35
+WinZip,lt-10858,wk0286,jade.garcia,2025-11-10,325,35
+WinZip,lt-10372,wk0124,zane.diaz,2025-11-10,325,35
+WinZip,lt-10111,wk0037,ivan.reyes,2025-11-22,313,35
+WinZip,lt-10054,wk0018,ivan.ito,2025-11-25,310,35
+WinZip,lt-10159,wk0053,priya.garcia,2025-12-11,294,35
+WinZip,lt-11038,wk0346,elena.fox,2025-12-25,280,35
+WinZip,dt-11230,wk0410,marco.nguyen,2025-12-25,280,35
+WinZip,dt-10420,wk0140,jade.tran,2026-01-02,272,35
+WinZip,lt-10732,wk0244,grace.ito,2026-01-04,270,35
+WinZip,lt-10549,wk0183,rosa.obi,2026-01-09,265,35
+WinZip,lt-11029,wk0343,omar.baker,2026-01-10,264,35
+WinZip,lt-10378,wk0126,jade.ito,2026-01-23,251,35
+WinZip,lt-10837,wk0279,sam.diaz,2026-01-29,245,35
+WinZip,dt-11362,wk0454,dev.nguyen,2026-03-19,196,35
+WinZip,dt-30050,wk2050,tara.obi,2026-03-21,194,35
+WinZip,lt-10288,wk0096,omar.diaz,2026-04-01,183,35
+WinZip,lt-11245,wk0415,grace.eze,2026-04-05,179,35
+WinZip,lt-10696,wk0232,kofi.james,2026-04-13,171,35
+WinZip,lt-11218,wk0406,hiro.hughes,2026-04-19,165,35
+WinZip,ks-dispatch-09,ks008,(unassigned device ks008),2026-04-29,155,35
+WinZip,dt-10504,wk0168,lena.smith,2026-05-02,152,35
+WinZip,dt-30055,wk2055,ben.mensah,2026-06-08,115,35
+WinZip,lt-11428,wk0476,omar.chen,2026-06-12,111,35
+WinZip,lt-11077,wk0359,elena.garcia,2026-06-17,106,35

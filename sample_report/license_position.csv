@@ -1,0 +1,14 @@
+product,publisher,metric,status,entitled,consumed,installs,balance,reclaimable,balance_after_reclaim,unit_price,exposure,exposure_after_reclaim,surplus_value,expired_rights,renewal_date,installs_without_usage_data
+Microsoft SQL Server Enterprise 2022,Microsoft,per_core,Shortfall,40,52,4,-12,0,-12,3600.0,43200.0,43200.0,0.0,0,,0
+Microsoft Project Professional 2021,Microsoft,per_device,Shortfall,30,44,44,-14,6,-8,1130.0,15820.0,9040.0,0.0,0,,2
+Microsoft SQL Server Standard 2022,Microsoft,per_core,Shortfall,60,72,10,-12,0,-12,950.0,11400.0,11400.0,0.0,0,,0
+Microsoft Visio Professional 2021,Microsoft,per_device,Fixable by reclaim,100,118,118,-18,31,13,576.0,10368.0,0.0,7488.0,0,,4
+WinZip,Corel,per_device,Unlicensed,0,142,142,-142,40,-102,35,4970,3570,0,0,,10
+Tableau Desktop,Salesforce,per_user,Shortfall,10,15,15,-5,2,-3,900.0,4500.0,2700.0,0.0,5,2026-12-31,0
+Adobe Creative Cloud All Apps,Adobe,per_user,Fixable by reclaim,35,38,38,-3,5,2,1000.0,3000.0,0.0,2000.0,0,2026-11-14,0
+TechSmith Snagit,TechSmith,per_device,Shortfall,50,78,78,-28,26,-2,63.0,1764.0,126.0,0.0,0,,3
+Adobe Acrobat Pro,Adobe,per_user,Surplus,250,194,214,56,21,77,240.0,0.0,0.0,18480.0,0,2027-01-31,6
+Autodesk AutoCAD LT,Autodesk,per_user,Surplus,25,12,12,13,3,16,560.0,0.0,0.0,8960.0,0,2027-03-31,0
+Windows Server 2022 Datacenter,Microsoft,per_core,Surplus,352,344,15,8,0,8,385.0,0.0,0.0,3080.0,0,,0
+Oracle Database Enterprise Edition,Oracle,per_core,Compliant,16,16,2,0,0,0,47500.0,0.0,0.0,0.0,0,,0
+Zoom Workplace,Zoom,site,Covered,1,565,565,0,0,0,0,0,0,0,0,2026-12-31,0

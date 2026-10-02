@@ -1,0 +1,17 @@
+{
+  "installs": {
+    "fields": {
+      "last_used": "u_last_used"
+    }
+  },
+  "devices": {
+    "table": "cmdb_ci_hardware",
+    "fields": {
+      "cores": "u_physical_cores"
+    }
+  },
+  "entitlements": {
+    "query": "active=true",
+    "cost_is_total": false
+  }
+}

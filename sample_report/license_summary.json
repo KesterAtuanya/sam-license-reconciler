@@ -1,0 +1,295 @@
+{
+  "tool": "sam-license-reconciler",
+  "version": "1.0.0",
+  "source": "Demo data: Northwind Logistics (fictional)",
+  "as_of": "2026-10-01",
+  "devices": 596,
+  "installs": 2781,
+  "exposure": 95022.0,
+  "exposure_after_reclaim": 70036.0,
+  "reclaimable_installs": 134,
+  "reclaim_value": 41194.0,
+  "surplus_value": 40008.0,
+  "products": [
+    {
+      "product": "Microsoft SQL Server Enterprise 2022",
+      "metric": "per_core",
+      "status": "Shortfall",
+      "entitled": 40,
+      "consumed": 52,
+      "balance": -12,
+      "balance_after_reclaim": -12,
+      "exposure": 43200.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Microsoft Project Professional 2021",
+      "metric": "per_device",
+      "status": "Shortfall",
+      "entitled": 30,
+      "consumed": 44,
+      "balance": -14,
+      "balance_after_reclaim": -8,
+      "exposure": 15820.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Microsoft SQL Server Standard 2022",
+      "metric": "per_core",
+      "status": "Shortfall",
+      "entitled": 60,
+      "consumed": 72,
+      "balance": -12,
+      "balance_after_reclaim": -12,
+      "exposure": 11400.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Microsoft Visio Professional 2021",
+      "metric": "per_device",
+      "status": "Fixable by reclaim",
+      "entitled": 100,
+      "consumed": 118,
+      "balance": -18,
+      "balance_after_reclaim": 13,
+      "exposure": 10368.0,
+      "surplus_value": 7488.0
+    },
+    {
+      "product": "WinZip",
+      "metric": "per_device",
+      "status": "Unlicensed",
+      "entitled": 0,
+      "consumed": 142,
+      "balance": -142,
+      "balance_after_reclaim": -102,
+      "exposure": 4970,
+      "surplus_value": 0
+    },
+    {
+      "product": "Tableau Desktop",
+      "metric": "per_user",
+      "status": "Shortfall",
+      "entitled": 10,
+      "consumed": 15,
+      "balance": -5,
+      "balance_after_reclaim": -3,
+      "exposure": 4500.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Adobe Creative Cloud All Apps",
+      "metric": "per_user",
+      "status": "Fixable by reclaim",
+      "entitled": 35,
+      "consumed": 38,
+      "balance": -3,
+      "balance_after_reclaim": 2,
+      "exposure": 3000.0,
+      "surplus_value": 2000.0
+    },
+    {
+      "product": "TechSmith Snagit",
+      "metric": "per_device",
+      "status": "Shortfall",
+      "entitled": 50,
+      "consumed": 78,
+      "balance": -28,
+      "balance_after_reclaim": -2,
+      "exposure": 1764.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Adobe Acrobat Pro",
+      "metric": "per_user",
+      "status": "Surplus",
+      "entitled": 250,
+      "consumed": 194,
+      "balance": 56,
+      "balance_after_reclaim": 77,
+      "exposure": 0.0,
+      "surplus_value": 18480.0
+    },
+    {
+      "product": "Autodesk AutoCAD LT",
+      "metric": "per_user",
+      "status": "Surplus",
+      "entitled": 25,
+      "consumed": 12,
+      "balance": 13,
+      "balance_after_reclaim": 16,
+      "exposure": 0.0,
+      "surplus_value": 8960.0
+    },
+    {
+      "product": "Windows Server 2022 Datacenter",
+      "metric": "per_core",
+      "status": "Surplus",
+      "entitled": 352,
+      "consumed": 344,
+      "balance": 8,
+      "balance_after_reclaim": 8,
+      "exposure": 0.0,
+      "surplus_value": 3080.0
+    },
+    {
+      "product": "Oracle Database Enterprise Edition",
+      "metric": "per_core",
+      "status": "Compliant",
+      "entitled": 16,
+      "consumed": 16,
+      "balance": 0,
+      "balance_after_reclaim": 0,
+      "exposure": 0.0,
+      "surplus_value": 0.0
+    },
+    {
+      "product": "Zoom Workplace",
+      "metric": "site",
+      "status": "Covered",
+      "entitled": 1,
+      "consumed": 565,
+      "balance": 0,
+      "balance_after_reclaim": 0,
+      "exposure": 0,
+      "surplus_value": 0
+    }
+  ],
+  "actions": [
+    {
+      "priority": 1,
+      "kind": "reclaim",
+      "product": "Microsoft Visio Professional 2021",
+      "text": "Reclaim 31 unused Microsoft Visio Professional 2021 installs (no use in 90+ days). That covers 18 of the 18 you're short.",
+      "amount": 10368.0
+    },
+    {
+      "priority": 3,
+      "kind": "reassign",
+      "product": "Microsoft Visio Professional 2021",
+      "text": "13 licenses of Microsoft Visio Professional 2021 are unused. Assign them before buying more.",
+      "amount": 7488.0
+    },
+    {
+      "priority": 1,
+      "kind": "remove",
+      "product": "WinZip",
+      "text": "WinZip is on 142 devices with no license on record. Find the purchase records, or uninstall it (start with the 40 unused copies). Buying would take 142 licenses.",
+      "amount": 4970
+    },
+    {
+      "priority": 1,
+      "kind": "renew",
+      "product": "Adobe Creative Cloud All Apps",
+      "text": "Adobe Creative Cloud All Apps renews in 44 days. You own 35 and need about 33 after reclaim, so renew 33 instead of 35.",
+      "amount": 2000.0
+    },
+    {
+      "priority": 1,
+      "kind": "reclaim",
+      "product": "Adobe Creative Cloud All Apps",
+      "text": "Reclaim 5 unused Adobe Creative Cloud All Apps installs (no use in 90+ days). That covers 3 of the 3 you're short.",
+      "amount": 3000.0
+    },
+    {
+      "priority": 2,
+      "kind": "buy",
+      "product": "Microsoft SQL Server Enterprise 2022",
+      "text": "Buy 12 cores of Microsoft SQL Server Enterprise 2022 (per core), or remove it where it isn't needed.",
+      "amount": 43200.0
+    },
+    {
+      "priority": 2,
+      "kind": "reclaim",
+      "product": "Microsoft Project Professional 2021",
+      "text": "Reclaim 6 unused Microsoft Project Professional 2021 installs (no use in 90+ days). That covers 6 of the 14 you're short.",
+      "amount": 6780.0
+    },
+    {
+      "priority": 2,
+      "kind": "buy",
+      "product": "Microsoft Project Professional 2021",
+      "text": "Buy 8 licenses of Microsoft Project Professional 2021 (per device), or remove it where it isn't needed.",
+      "amount": 9040.0
+    },
+    {
+      "priority": 2,
+      "kind": "buy",
+      "product": "Microsoft SQL Server Standard 2022",
+      "text": "Buy 12 cores of Microsoft SQL Server Standard 2022 (per core), or remove it where it isn't needed.",
+      "amount": 11400.0
+    },
+    {
+      "priority": 2,
+      "kind": "reclaim",
+      "product": "Tableau Desktop",
+      "text": "Reclaim 2 unused Tableau Desktop installs (no use in 90+ days). That covers 2 of the 5 you're short.",
+      "amount": 1800.0
+    },
+    {
+      "priority": 2,
+      "kind": "buy",
+      "product": "Tableau Desktop",
+      "text": "Buy 3 users of Tableau Desktop (per named user), or remove it where it isn't needed.",
+      "amount": 2700.0
+    },
+    {
+      "priority": 2,
+      "kind": "review",
+      "product": "Tableau Desktop",
+      "text": "5 Tableau Desktop rights have expired and no longer count. Renew them or confirm they were meant to lapse.",
+      "amount": 4500.0
+    },
+    {
+      "priority": 2,
+      "kind": "reclaim",
+      "product": "TechSmith Snagit",
+      "text": "Reclaim 26 unused TechSmith Snagit installs (no use in 90+ days). That covers 26 of the 28 you're short.",
+      "amount": 1638.0
+    },
+    {
+      "priority": 2,
+      "kind": "buy",
+      "product": "TechSmith Snagit",
+      "text": "Buy 2 licenses of TechSmith Snagit (per device), or remove it where it isn't needed.",
+      "amount": 126.0
+    },
+    {
+      "priority": 3,
+      "kind": "reduce",
+      "product": "Adobe Acrobat Pro",
+      "text": "Cut Adobe Acrobat Pro by 77 users at the next renewal (Jan 31, 2027).",
+      "amount": 18480.0
+    },
+    {
+      "priority": 3,
+      "kind": "reduce",
+      "product": "Autodesk AutoCAD LT",
+      "text": "Cut Autodesk AutoCAD LT by 16 users at the next renewal (Mar 31, 2027).",
+      "amount": 8960.0
+    },
+    {
+      "priority": 3,
+      "kind": "reassign",
+      "product": "Windows Server 2022 Datacenter",
+      "text": "8 cores of Windows Server 2022 Datacenter are unused. Assign them before buying more.",
+      "amount": 3080.0
+    },
+    {
+      "priority": 3,
+      "kind": "review",
+      "product": "Unrecognized software",
+      "text": "7 titles (147 installs) didn't match a product rule. Add rules for the commercial ones so they get reconciled.",
+      "amount": 0.0
+    }
+  ],
+  "unrecognized_titles": {
+    "Lenovo Vantage Service": 40,
+    "Bloomberg Terminal": 31,
+    "Dispatch Console Client 3.2": 24,
+    "Microsoft Edge WebView2 Runtime": 20,
+    "Cisco Secure Client": 17,
+    "Python 3.12.4 (64-bit)": 12,
+    "HP Smart": 3
+  }
+}
