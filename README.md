@@ -163,7 +163,7 @@ This is a reconciliation aid, not a licensing authority. It doesn't model licens
 
 ## Author
 
-Built by Kester Atuanya, Senior ServiceNow Developer (CIS-SAM, CIS-ITSM, CIS-CAD, CSA).
+Built by Kester Atuanya, Senior ServiceNow Developer (CIS-SAM, CIS-ITSM, CAD, CSA).
 
 ## License
 
