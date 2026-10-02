@@ -18,7 +18,7 @@ It reads from ServiceNow SAM Pro, or from CSV exports of any SAM or inventory to
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/sam-license-reconciler.git
+git clone https://github.com/KesterAtuanya/sam-license-reconciler.git
 cd sam-license-reconciler
 pip install -r requirements.txt
 
