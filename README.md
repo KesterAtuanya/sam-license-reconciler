@@ -1,6 +1,6 @@
 # SAM License Reconciler
 
-![tests](https://github.com/YOUR-GITHUB-USERNAME/sam-license-reconciler/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/KesterAtuanya/sam-license-reconciler/actions/workflows/tests.yml/badge.svg)
 
 A command-line tool that answers the questions every software asset manager gets before an audit or a renewal:
 
